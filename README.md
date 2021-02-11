@@ -8,6 +8,5 @@ On the toolkit's page, they had a link to the GitHub, leading to the assumption 
 1. Download the repository
 1. Open a terminal
 1. `cd` into the folder where you downloaded it
-1. `cd` into `.\toolkit.abdk.consulting`
 1. In the subfolder, type `python -m http.server`
 1. Open [http://localhost:8000](http://localhost:8000). It should load and you can use it like normal.
